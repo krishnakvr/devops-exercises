@@ -132,10 +132,12 @@ Each piece of code (change/patch) is verified, to make the change is safe to mer
 
 <details>
 <summary>What is Continuous Deployment?</summary><br><b>
+	Continuous Deployment is being able to continually deploy
 </b></details>
 
 <details>
 <summary>What is Continuous Delivery?</summary><br><b>
+	Continuous Delivery is a state of being ready and able to release any version at any time on any platform
 </b></details>
 
 <details>
